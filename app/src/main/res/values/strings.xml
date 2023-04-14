@@ -1,0 +1,249 @@
+<resources>
+    <string name="app_name">17train\'s</string>
+    <string name="accroche">N\'attendez plus pour vous remettre en forme et rejoignez-nous dès maintenant pour atteindre vos objectifs et obtenir des résultats visibles.</string>
+    <string name="bas_du_corps">Bas du corps</string>
+    <string name="abdominaux">Abdominaux</string>
+    <string name="haut_du_corps">Haut du corps</string>
+    <string name="complet">Complet</string>
+    <string name="accueil">Accueil</string>
+
+    <!-- Exercices Bas du corps -->
+    <string name="stelLegs">
+    <![CDATA[
+    <ul>
+        <li>I. Fente latérale | 30 secs</li>
+        <li>II. Squat Sumo | 30 secs</li>
+        <li>III. Relevé de Bassin | 45 secs</li>
+        <li>IV. Squat Bulgare (droit) | 30 secs</li>
+        <li>V. Squat Bulgare (gauche) | 30 secs</li>
+    </ul>
+    ]]>
+
+    </string>
+
+    <string name="levelUp">
+    <![CDATA[
+    <ul>
+        <li>I. Éxtensions des Mollets | X 50</li>
+        <li>Repos | 45 secs</li>
+        <li>II. Squats Sautés | X 20</li>
+        <li>Repos | 45 secs</li>
+        <li>III. Fentes Sautés | X 20</li>
+        <li>Repos | 45 secs</li>
+        <li>IV. Squats Bulgares | X 20</li>
+    </ul>
+    ]]>
+    </string>
+
+    <string name="Fighters">
+    <![CDATA[
+    <ul>
+        <li>I. Coup de Pieds Direct | 30 secs</li>
+        <li>II. Saut Groupé | 30 secs</li>
+        <li>III. Coup de Pieds Latéraux | 30 secs</li>
+        <li>IV. Saut latéraux | 30 secs</li>
+        <li>V. Coup de Genoux Dynamique | 30 secs</li>
+        <li>VI. Squat Sauté | 30 secs</li>
+    </ul>
+    ]]>
+
+    </string>
+
+    <string name="PreTraining">
+    <![CDATA[
+    <ul>
+        <li>I. Jumping Jack | 45 secs</li>
+        <li>II. Squats | X 15</li>
+        <li>III. Fentes | X 15</li>
+        <li>IV. Chaise | 45 secs</li>
+        <li>V. Gainage Central | 45 secs</li>
+    </ul>
+    ]]>
+</string>
+
+    <!-- Exercices Abdominaux -->
+    <string name="destructor">
+    <![CDATA[
+    <ul>
+        <li>I. Chaise Renversée | 30 secs</li>
+        <li>II. Ciseaux | 10 secs</li>
+        <li>III. Chaise Assise | 30 secs</li>
+        <li>IV. Ciseaux | 10 secs</li>
+        <li>V. Tire Bouchons | 30 secs</li>
+        <li>VI. Ciseaux | 10 secs</li>
+    </ul>
+    ]]>
+    </string>
+
+    <string name="abTrain">
+    <![CDATA[
+    <ul>
+        <li>I. Mountain Climbers | 45 secs</li>
+        <li>II. Petit Crunch | 30 secs</li>
+        <li>III. Mountain Skier | 45 secs</li>
+        <li>IV. Petit Crunch | 30 secs</li>
+        <li>V. Mountain Groupé | 45 secs</li>
+        <li>VI. Petit Crunch | 30 secs</li>
+    </ul>
+    ]]>
+    </string>
+
+    <string name="buildYourAbs">
+    <![CDATA[
+    <ul>
+        <li>I. Petit Crunch | 30 secs</li>
+        <li>II. Twist Russe | 30 secs</li>
+        <li>III. Grand Crunch | 30 secs</li>
+        <li>IV. Levée de Jambes | 30 secs</li>
+        <li>V. Gainage Latéral (gauche) | 45 secs</li>
+        <li>VI. Gainage Central | 1 min</li>
+        <li>VII. Gainage Latéral (droit) | 45 secs</li>
+    </ul>
+    ]]>
+    </string>
+
+    <string name="firePlank">
+    <![CDATA[
+    <ul>
+        <li>I. Gainage Latéral (gauche) | 30 secs</li>
+        <li>II. Gainage Central | 45 secs</li>
+        <li>III. Gainage Latéral (droit) | 30 secs</li>
+        <li>IV. Gainage sur les Mains | 45 secs</li>
+        <li>V. Gainage Commando | 30 secs</li>
+        <li>VI. Mountain Climbers | 45 secs</li>
+    </ul>
+    ]]>
+    </string>
+
+    <!-- Exercices Haut du corps -->
+    <string name="fighterPower">
+    <![CDATA[
+    <ul>
+        <li>I. Pompes Ouverture en T | X 11</li>
+        <li>II. Gainages Commando | X 11</li>
+        <li>III. Planche Haute Touché d\'Épaules | 30 secs</li>
+        <li>IV. Crawls Latéraux | X 11</li>
+        <li>V. Burpees | X 11</li>
+        <li>VI. Montée de Genoux | 30 secs</li>
+        <li>VII. Gainage Latéral (gauche) | 45 secs</li>
+        <li>VIII. Gainage Latéral (droit) | 45 secs</li>
+    </ul>
+    ]]>
+    </string>
+
+    <string name="destroyYouArms">
+    <![CDATA[
+    <ul>
+        <li>I. Tirage du Bûcheron avec Haltères | X 10</li>
+        <li>Repos | 1 min</li>
+        <li>II. Dips | X 12</li>
+        <li>Repos | 1 min</li>
+        <li>III. Kick Back avec Haltères | X 10</li>
+        <li>Repos | 1 min</li>
+        <li>IV. Tractions Prise Inversée | X 12</li>
+    </ul>
+    ]]>
+    </string>
+
+    <string name="fightYourLimits">
+    <![CDATA[
+    <ul>
+        <li>I. Shadow Boxing | 3 min</li>
+        <li>Repos | 2 min</li>
+        <li>II. Tirages Élastique vers Hanches | X 20</li>
+        <li>Repos | 1 min</li>
+        <li>III. Éxtensions Élastique par Dessus la Tête | X 20</li>
+        <li>Repos | 1 min</li>
+        <li>IV. Coups de genoux + direct + Crochet | X 20</li>
+        <li>Repos | 1 min</li>
+        <li>V. Low Kick + Uppercut + Hight Kick | X 20</li>
+    </ul>
+    ]]>
+    </string>
+
+    <string name="dumbellsPower">
+    <![CDATA[
+    <ul>
+        <li>I. Développé Couché avec Haltères | 2 X 10</li>
+        <li>II. Tractions | 2 X 10</li>
+        <li>III. Élévations Latérales avec Haltères | 2 X 10</li>
+        <li>IV. Flexions des Coudes avec Haltères | 2 X 10</li>
+        <li>V. Fentes Avant avec Haltère(s) | 2 X 10</li>
+        <li>VI. Pompes sur les Poings | 2 X 10</li>
+        <li>VII. Relevés de Buste Superman | 2 X 10</li>
+    </ul>
+    ]]>
+    </string>
+
+    <!-- Exercices Complet -->
+
+    <string name="buildYourEndurance">
+    <![CDATA[
+    <ul>
+        <li>I. Pas Chasées Navette (5m) | 45 secs</li>
+        <li>Repos | 20 secs</li>
+        <li>II. Burpees Saut Groupé | 45 secs</li>
+        <li>Repos | 20 secs</li>
+        <li>III. Sprint Navette (10m) | 45 secs</li>
+        <li>Repos | 20 secs</li>
+        <li>IV. Burpees Saut Groupé | 45 secs</li>
+        <li>Repos | 20 secs</li>
+        <li>V. Pas Chasées Navette (5m) | 45 secs</li>
+    </ul>
+    ]]>
+    </string>
+
+    <string name="workHard">
+    <![CDATA[
+        <ul>
+            <li>Squat | X 100</li>
+            <li>Repos | 30 secs</li>
+            <li>Fentes Alternées | X 50</li>
+            <li>Repos | 30 secs</li>
+            <li>Coup de pied latéral gauche | 1 min</li>
+            <li>Coup de pied latéral droit | 1 min</li>
+            <li>Repos | 30 secs</li>
+            <li>Pompes | X 50</li>
+        </ul>
+    ]]>
+    </string>
+
+    <string name="homeTraining">
+    <![CDATA[
+    <ul>
+        <li> I. Corde à sautée | 2 min </li>
+        <li> II. Jumping Jack | 45 secs </li>
+        <li> III. Seal Jack | 45 secs </li>
+        <li> Repos | 30 secs </li>
+        <li> IV. Fente alternée | 1 min </li>
+        <li> V. Squat | 1 min </li>
+        <li> VI. Crawl Latéral | 1 min </li>
+    </ul>
+    ]]>
+    </string>
+
+    <string name="streetWorkout">
+    <![CDATA[
+    <ul>
+        <li>I. Corde à Sautée | 5 min</li>
+        <li>II. Tractions | 4 X 10</li>
+        <li>III. Pompes | 4 X 20</li>
+        <li>IV. Relevés de Jambes (chaise romaine) | 4 X 25</li>
+        <li>V. Dips | 4 X 10</li>
+        <li>VI. Corde à Sautée | 5 min</li>
+    </ul>
+    ]]>
+    </string>
+
+    <!-- Strings related to login -->
+    <string name="title_activity_profil">ProfilActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Mot de Passe</string>
+    <string name="action_sign_in">Connexion ou inscription</string>
+    <string name="action_sign_in_short">Connexion</string>
+    <string name="welcome">"Bienvenu !"</string>
+    <string name="invalid_username">Identifiant incorrect</string>
+    <string name="invalid_password">Le mot de passe doit comporter >5 caractères</string>
+    <string name="login_failed">"La connexion a échoué"</string>
+    <string name="profil">Profil</string>
+</resources>

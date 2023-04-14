@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/menu_accueil"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/accueil"/>
+
+    <item android:id="@+id/menu_bas_du_corps"
+          android:orderInCategory="100"
+          app:showAsAction="never"
+          android:title="@string/bas_du_corps"/>
+
+    <item android:id="@+id/menu_abdominaux"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/abdominaux"/>
+
+    <item android:id="@+id/menu_haut_du_corps"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/haut_du_corps"/>
+
+    <item android:id="@+id/menu_complet"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/complet"/>
+
+    <item android:id="@+id/menu_profil"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/profil"/>
+
+</menu>
