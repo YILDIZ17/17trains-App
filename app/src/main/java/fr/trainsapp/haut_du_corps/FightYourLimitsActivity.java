@@ -70,10 +70,10 @@ public class FightYourLimitsActivity extends AppCompatActivity {
                 Intent complet = new Intent(this, CompletActivity.class);
                 startActivity(complet);
                 return true;
-            case R.id.menu_profil:
+            /* case R.id.menu_profil:
                 Intent profil = new Intent(this, ProfilActivity.class);
                 startActivity(profil);
-                return true;
+                return true; */
             default:
                 return super.onOptionsItemSelected(item);
         }

@@ -27,9 +27,9 @@
         app:showAsAction="never"
         android:title="@string/complet"/>
 
-    <item android:id="@+id/menu_profil"
+    <!-- <item android:id="@+id/menu_profil"
         android:orderInCategory="100"
         app:showAsAction="never"
-        android:title="@string/profil"/>
+        android:title="@string/profil"/> -->
 
 </menu>
