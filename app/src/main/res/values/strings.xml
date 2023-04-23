@@ -155,8 +155,6 @@
         <li>III. Éxtensions Élastique par Dessus la Tête | X 20</li>
         <li>Repos | 1 min</li>
         <li>IV. Coups de genoux + direct + Crochet | X 20</li>
-        <li>Repos | 1 min</li>
-        <li>V. Low Kick + Uppercut + Hight Kick | X 20</li>
     </ul>
     ]]>
     </string>
@@ -187,8 +185,6 @@
         <li>III. Sprint Navette (10m) | 45 secs</li>
         <li>Repos | 20 secs</li>
         <li>IV. Burpees Saut Groupé | 45 secs</li>
-        <li>Repos | 20 secs</li>
-        <li>V. Pas Chasées Navette (5m) | 45 secs</li>
     </ul>
     ]]>
     </string>
@@ -235,15 +231,13 @@
     ]]>
     </string>
 
-    <!-- Strings related to login -->
-    <string name="title_activity_profil">ProfilActivity</string>
-    <string name="prompt_email">Email</string>
-    <string name="prompt_password">Mot de Passe</string>
-    <string name="action_sign_in">Connexion ou inscription</string>
-    <string name="action_sign_in_short">Connexion</string>
-    <string name="welcome">"Bienvenu !"</string>
-    <string name="invalid_username">Identifiant incorrect</string>
-    <string name="invalid_password">Le mot de passe doit comporter >5 caractères</string>
-    <string name="login_failed">"La connexion a échoué"</string>
     <string name="profil">Profil</string>
+    <string name="inscription">Inscription</string>
+    <string name="connexion">Connexion</string>
+    <string name="deconnexion">Deconnexion</string>
+    <string name="mail">Mail</string>
+    <string name="pseudo">Mail</string>
+    <string name="prenom">Prenom</string>
+    <string name="nom">Nom</string>
+    <string name="logo">Logo</string>
 </resources>

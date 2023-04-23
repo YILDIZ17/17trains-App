@@ -1,4 +1,4 @@
-package fr.trainsapp;
+package fr.trainsapp.general;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
@@ -11,6 +11,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 
+import fr.trainsapp.ProfilActivity;
+import fr.trainsapp.R;
 import fr.trainsapp.abdominaux.AbdominauxActivity;
 import fr.trainsapp.bas_du_corps.BasDuCorpsActivity;
 import fr.trainsapp.complet.CompletActivity;
@@ -22,15 +24,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        ImageView logo = findViewById(R.id.logo);
-        logo.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent = new Intent(MainActivity.this, MainActivity.class);
-                startActivity(intent);
-            }
-        });
 
         // Boutton vers la page Bas Du Corps
         Button button_v_bas_du_corps = (Button) findViewById(R.id.button_v_bas_du_corps);
@@ -102,10 +95,10 @@ public class MainActivity extends AppCompatActivity {
                 Intent complet = new Intent(this, CompletActivity.class);
                 startActivity(complet);
                 return true;
-            /* case R.id.menu_profil:
+            case R.id.menu_profil:
                 Intent profil = new Intent(this, ProfilActivity.class);
                 startActivity(profil);
-                return true; */
+                return true;
             default:
                 return super.onOptionsItemSelected(item);
         }

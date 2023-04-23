@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "199672295735",
+    "project_id": "train-s-dfd8d",
+    "storage_bucket": "train-s-dfd8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199672295735:android:34a0142463556c2ef52ab2",
+        "android_client_info": {
+          "package_name": "fr.trainsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199672295735-ddgmb4fumrclaudeu30vd8p8q4g5eqh8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcNBW1WOEp1nVOQnjjIrD6x9YvB4Yj0p4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199672295735-ddgmb4fumrclaudeu30vd8p8q4g5eqh8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

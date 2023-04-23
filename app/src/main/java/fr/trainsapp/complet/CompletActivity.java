@@ -11,8 +11,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 
-import fr.trainsapp.MainActivity;
 import fr.trainsapp.ProfilActivity;
+import fr.trainsapp.general.MainActivity;
 import fr.trainsapp.R;
 import fr.trainsapp.abdominaux.AbdominauxActivity;
 import fr.trainsapp.bas_du_corps.BasDuCorpsActivity;
@@ -104,10 +104,10 @@ public class CompletActivity extends AppCompatActivity {
                 Intent complet = new Intent(this, CompletActivity.class);
                 startActivity(complet);
                 return true;
-            /* case R.id.menu_profil:
+            case R.id.menu_profil:
                 Intent profil = new Intent(this, ProfilActivity.class);
                 startActivity(profil);
-                return true; */
+                return true;
             default:
                 return super.onOptionsItemSelected(item);
         }
