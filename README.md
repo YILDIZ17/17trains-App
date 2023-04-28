@@ -1,4 +1,4 @@
-# 17trainsApp
+# 17trains'App
 
 17train's App est une application mobile sportive développée pour Android avec Android Studio et les langages JAVA et XML. Elle utilise une base de données Firebase pour stocker les informations.
 
